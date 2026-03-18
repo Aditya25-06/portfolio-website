@@ -12,6 +12,9 @@ nav {
   background: #020617;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 .skills {
   display: flex;
   justify-content: center;
