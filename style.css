@@ -5,6 +5,23 @@ body {
   color: white;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+  background: #020617;
+}
+
+nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #38bdf8;
+}
+
 /* Header */
 header {
   text-align: center;
