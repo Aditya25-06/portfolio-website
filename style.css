@@ -12,6 +12,20 @@ nav {
   background: #020617;
 }
 
+.skills {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.skills span {
+  background: #38bdf8;
+  color: black;
+  padding: 8px 15px;
+  border-radius: 20px;
+}
+
 nav a {
   color: white;
   margin-left: 15px;
